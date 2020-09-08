@@ -1,6 +1,5 @@
 ## 👦 Hi, i'm Nadav Shaar
 ### Front-end React developer
-I'm passionate about User-Interface and delivering beautiful and interactive applications.
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" >
 <h3>🛠 Tech Stack</h3>
