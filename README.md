@@ -1,5 +1,7 @@
 ## Hi, i'm Nadav Shaar 👋
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -10,12 +12,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ReactJS + Redux | JS (es6)
-- 🌐 &nbsp; HTML | CSS | SASS
+- 💻 &nbsp; ReactJS + Redux
+- 🌐 &nbsp; JS (es6) | HTML | CSS | SASS
 - 🔧 &nbsp; Git | NPM
-- 🎓 &nbsp; (Have experience with...) NodeJS, React Native
-
-<br/>
+- 🎓 &nbsp; (Experienced with...) NodeJS, React Native
 
 <h3> 🤝🏻 Contact Me </h3>
-<a href="mailto:nadavshaar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nadavshaar@gmail.com-red?style=flat-square&logo=gmail"></a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadav-shaar-551771139/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadavshaar@gmail.com)
