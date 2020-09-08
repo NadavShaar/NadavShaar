@@ -13,13 +13,11 @@
 - 💻 &nbsp; ReactJS + Redux | JS (es6)
 - 🌐 &nbsp; HTML | CSS | SASS
 - 🔧 &nbsp; Git | NPM
-- 🎓 &nbsp; (Have some experience with...) NodeJS, React Native
+- 🎓 &nbsp; (Have experience with...) NodeJS, React Native
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
-
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contact Me </h3>
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
