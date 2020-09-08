@@ -18,7 +18,4 @@
 <br/>
 
 <h3> 🤝🏻 Contact Me </h3>
-
-<p align="center">
-<a href="mailto:nadavshaar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="mailto:nadavshaar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nadavshaar@gmail.com-red?style=flat-square&logo=gmail"></a>
