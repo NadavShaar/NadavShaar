@@ -18,5 +18,5 @@
 - 🎓 &nbsp; (Experienced with...) NodeJS, React Native
 
 <h3> 🤝🏻 Contact Me </h3>
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadav-shaar-551771139)
-![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadavshaar@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadavshaar@gmail.com)
