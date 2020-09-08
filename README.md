@@ -1,4 +1,4 @@
-## 😃 Hi, i'm Nadav Shaar
+## 👦 Hi, i'm Nadav Shaar
 ### Front-end React developer
 I'm passionate about User-Interface and delivering beautiful and interactive applications.
 
@@ -11,7 +11,7 @@ I'm passionate about User-Interface and delivering beautiful and interactive app
 - 🎓 &nbsp; (Experience with...) NodeJS, React Native
 
 
-<h3> 🤝🏻 Contact Me </h3>
+<h> 🍻 Contact Me </h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadavshaar@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadav-shaar-551771139)
