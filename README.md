@@ -1,5 +1,5 @@
 ## 😃 Hi, i'm Nadav Shaar
-### A fron-end React developer
+#### A front-end React developer
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" >
