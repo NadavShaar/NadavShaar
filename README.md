@@ -1,6 +1,6 @@
 ## ☺️ Hi, i'm Nadav Shaar
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width=200" height="150">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width=300" height="200">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
