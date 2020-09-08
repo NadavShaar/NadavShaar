@@ -1,4 +1,4 @@
-## ☺️ Hi, i'm Nadav Shaar
+## 😃 Hi, i'm Nadav Shaar
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" >
