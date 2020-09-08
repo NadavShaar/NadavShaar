@@ -6,7 +6,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 I'm a front-end React developer, 
-i'm passined about User-Interface and delivering beatiful and interactive applications.
+
+i'm passionate about User-Interface and delivering beautiful and interactive applications.
 
 <h3>🛠 Tech Stack</h3>
 
