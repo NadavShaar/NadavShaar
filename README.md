@@ -5,7 +5,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS + Redux
-- 🌐 &nbsp; JS (es6) | HTML | CSS | SASS
+- 🌐 &nbsp; JS (es6) | HTML | CSS
 - 🔧 &nbsp; Git | NPM
 - 🎓 &nbsp; (Experience with...) NodeJS, React Native
 
