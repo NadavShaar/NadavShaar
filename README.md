@@ -2,7 +2,6 @@
 Front-end React developer
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" >
 <h3>🛠 Tech Stack</h3>
-
 - 💻 &nbsp; ReactJS + Redux
 - 🌐 &nbsp; JS (es6) | HTML | CSS
 - 🔧 &nbsp; Git | NPM
