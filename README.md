@@ -4,10 +4,9 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" >
 <h4>🛠 Tech Stack</h4>
 
-- 💻 &nbsp; ReactJS + Redux
-- 🌐 &nbsp; JS (es6) | HTML | CSS
+- 💻 &nbsp; ReactJS
+- 🌐 &nbsp; JS | HTML | CSS
 - 🔧 &nbsp; Git | NPM
-- 🎓 &nbsp; (Experience with...) NodeJS, React Native
 
 <h4> 🍻 Contact Me </h4>
 
